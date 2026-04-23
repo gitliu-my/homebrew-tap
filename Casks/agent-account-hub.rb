@@ -1,6 +1,6 @@
 cask "agent-account-hub" do
-  version "0.1.11"
-  sha256 "0e52d70e13d3fd6825e2b21b1710500c0ef6a92311d3dc5696c5a81e5b1b2453"
+  version "0.1.12"
+  sha256 "d4bd6a37358973076506a09bb6a51a3027e08186be4fe59896437ba605ee0a32"
 
   url "https://github.com/gitliu-my/agent-account-hub/releases/download/v#{version}/Agent.Account.Hub.zip",
       verified: "github.com/gitliu-my/agent-account-hub/"

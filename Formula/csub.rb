@@ -1,9 +1,9 @@
 class Csub < Formula
   desc "Use Codex subscription models through a local OpenAI-compatible API"
   homepage "https://github.com/gitliu-my/codex_subscription_client"
-  url "https://github.com/gitliu-my/codex_subscription_client/releases/download/v0.5.1/csub-macos-arm64.tar.gz"
-  version "0.5.1"
-  sha256 "98bd5b32c6c8d75597e909e2ed8cfb77c36028d9d53cc634b835d82c182d9f0d"
+  url "https://github.com/gitliu-my/codex_subscription_client/releases/download/v0.6.0/csub-macos-arm64.tar.gz"
+  version "0.6.0"
+  sha256 "81fb6bc14963926774d60e51a3e334c5763317efdc621fe33f54e99b8f61c458"
 
   depends_on arch: :arm64
 
